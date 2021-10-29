@@ -1,10 +1,9 @@
-# SHOPPING 
-<h1 align='center'>## Spring Boot를 활용한 프로젝트</h1>
+# Shopping
+### Spring Boot를 활용한 프로젝트
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>
 
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
 AngularJS-powered HTML5 Markdown editor.
 
 - Type some Markdown on the left
