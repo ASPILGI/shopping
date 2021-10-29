@@ -2,9 +2,8 @@
 
 종합브랜드 쇼핑몰 입니다. 
 
-### Spring Boot를 활용한 프로젝트
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>
+### Java Spring를 활용한 프로젝트
+
 
 
 AngularJS-powered HTML5 Markdown editor.
@@ -19,8 +18,11 @@ AngularJS-powered HTML5 Markdown editor.
 
 - 참여 인원: 1인
 
-- 사용 기술
-
+- 사용 기술  
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
   - Spring,  Apache Tomcat ,  Tiles,  BootStrap,  
   - Java,  Ajax,  Jquery,  Git,  Mybatis
   - Oracle DataBase, MVC Pttern
