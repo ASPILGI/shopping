@@ -1,16 +1,8 @@
 # good shop
 
-종합브랜드 쇼핑몰 입니다. 
+의류 및 가방 쇼핑몰 입니다. 
 
-### Java Spring를 활용한 프로젝트
-
-
-
-AngularJS-powered HTML5 Markdown editor.
-
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
+### Java Spring를 활용한 프로젝트입니다.
 
 ## Description
 
@@ -23,9 +15,9 @@ AngularJS-powered HTML5 Markdown editor.
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
-  - Spring,  Apache Tomcat ,  Tiles,  BootStrap,  
-  - Java,  Ajax,  Jquery,  Git,  Mybatis
-  - Oracle DataBase, MVC Pttern
+  - Spring,  Apache Tomcat 
+  - Java,,  Git,  Mybatis
+  - Oracle DataBase, 
 
 - 담당 구현 파트
 
